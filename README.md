@@ -5,6 +5,8 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=add-am)](https://github.com/anuraghazra/github-readme-stats&count_private=true&theme=transparent&show_icons=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=add-am&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 add-am/add-am is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
