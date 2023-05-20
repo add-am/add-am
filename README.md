@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning GIS, markdown and automation
 - 💞️ I’m collaborating on the DIMS project with the Northern-3 Regional Report Card teams 
 
+![alt text](https://github.com/[add-am]/[add-am]/blob/[branch]/image.jpg?raw=true)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=add-am)](https://github.com/anuraghazra/github-readme-stats&count_private=true&theme=transparent&show_icons=true)
 
 <!---
