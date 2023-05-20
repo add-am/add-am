@@ -1,15 +1,19 @@
 ![alt text](https://raw.githubusercontent.com/add-am/add-am/master/profile.gif)
   
 <div align="center">
-  <br/>
   <a href="https://github.com/add-am/add-amn/blame/master/Adam-Shand.svg">
     <img alt="Click to see the source" height="240" src="Adam-Shand.svg" width="1000" />
- </a>
-  <br/>
 </div>
-   
-
-    👋 Hi, I’m Adam Shand an environmental data analyst experienced in R and Python.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+👋 Hi, I’m Adam Shand an environmental data analyst experienced in R and Python.
     Currently I am working on creating end-to-end scripts for multiple environments (freshwater systems, estuarine systems, marine systems, etc.)
     and multiple data types (water quality, vegetation surveys, climate, fauna).
     👀 I’m interested in environmental data analysis
