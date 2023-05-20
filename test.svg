@@ -4,10 +4,10 @@
 			<style>
 				@keyframes rotate {
 					0% {
-						transform: rotate(3deg);
+						transform: rotate(0deg);
 					}
 					100% {
-						transform: rotate(-3deg);
+						transform: rotate(0deg);
 					}
 				}
 				@keyframes gradientBackground {
@@ -58,7 +58,7 @@
 					text-align: center;
 				}
 				h1 {
-					font-size: 50px;
+					font-size: 40px;
 					line-height: 1.3;
 					letter-spacing: 5px;
 					text-transform: uppercase;
@@ -77,8 +77,8 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
+				<h1>Adam Shand | Data Analyst</h1>
+				
 			</div>
 		</div>
 	</foreignObject>
