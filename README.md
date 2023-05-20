@@ -1,5 +1,15 @@
 ![alt text](https://raw.githubusercontent.com/add-am/add-am/master/profile.gif)
 
+<div align="center">
+  <br/>
+  <a href="https://github.com/add-am/add-amn/blame/master/test.svg">
+    <img alt="Click to see the source" height="400" src="test.svg" width="800" />
+  </a>
+  <br/>
+</div>
+
+
+
 - 👋 Hi, I’m @add-am
 - 👀 I’m interested in environmental data analysis
 - 🌱 I’m currently learning GIS, markdown and automation
