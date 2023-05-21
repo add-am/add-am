@@ -9,7 +9,7 @@ data <- data |> mutate(column = as.factor(column))
 
 gif <- ggplot(data, aes(x=column, y=value, fill=value)) + 
     geom_bar(stat='identity', width = 1, show.legend = F) +
-  scale_fill_distiller(palette = "Greens") +
+  scale_fill_distiller(palette = "Blues") +
   theme(panel.background = element_rect(fill = "grey15"),
         axis.title = element_blank(),
         axis.ticks = element_blank(),
