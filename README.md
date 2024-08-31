@@ -1,4 +1,4 @@
-##  Hi, I’m Adam Shand, a data analyst experienced in R and Python. Currently I am creating end-to-end scripts for environmental data collected from the Great Barrier Reef. Head over to [Dry Tropics Partnership for Healthy Waters](https://drytropicshealthywaters.org/) to see some of my publications.
+##  Hi, I’m Adam Shand, a data analyst experienced in R and Python. I create end-to-end scripts for environmental data collected from the Great Barrier Reef. Head over to the [Healthy Waters Partnership for the Dry Tropics](https://drytropicshealthywaters.org/) to see some of my publications.
 ![alt text](https://raw.githubusercontent.com/add-am/add-am/master/profile.gif) 
 
   <!---
